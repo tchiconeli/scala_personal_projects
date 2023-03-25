@@ -1,0 +1,47 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/chiconeli/IdeaProjects/Estudo_Selenium/target/scala-3.1.3/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirefoxCon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Site.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_MagaLu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Kabum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Amazon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirefoxCon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Site.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_MagaLu.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Kabum.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Amazon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirefoxCon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Site.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_MagaLu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Kabum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Amazon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirefoxCon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Site.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_MagaLu.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Kabum.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Amazon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirefoxCon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Site.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_MagaLu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Kabum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Amazon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FirefoxCon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Site.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_MagaLu.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	selenium_teste.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Kabum.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	site_Amazon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/chiconeli/IdeaProjects/Estudo_Selenium/target/scala-3.1.3/classes.bak[0m
